@@ -1,0 +1,4 @@
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 12\LibFabricaDeZapatos\LibFabricaDeZapatos\bin\Debug\LibFabricaDeZapatos.dll
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 12\LibFabricaDeZapatos\LibFabricaDeZapatos\bin\Debug\LibFabricaDeZapatos.pdb
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 12\LibFabricaDeZapatos\LibFabricaDeZapatos\obj\Debug\LibFabricaDeZapatos.dll
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 12\LibFabricaDeZapatos\LibFabricaDeZapatos\obj\Debug\LibFabricaDeZapatos.pdb

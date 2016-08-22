@@ -1,0 +1,5 @@
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 4\LibFruteria\LibFruteria\obj\Debug\LibFruteria.csprojResolveAssemblyReference.cache
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 4\LibFruteria\LibFruteria\bin\Debug\LibFruteria.dll
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 4\LibFruteria\LibFruteria\bin\Debug\LibFruteria.pdb
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 4\LibFruteria\LibFruteria\obj\Debug\LibFruteria.dll
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 4\LibFruteria\LibFruteria\obj\Debug\LibFruteria.pdb

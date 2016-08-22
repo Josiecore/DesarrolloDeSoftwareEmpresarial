@@ -1,0 +1,11 @@
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 12\AppCircunferencia\AppCircunferencia\bin\Debug\AppCircunferencia.exe.config
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 12\AppCircunferencia\AppCircunferencia\bin\Debug\AppCircunferencia.exe
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 12\AppCircunferencia\AppCircunferencia\bin\Debug\AppCircunferencia.pdb
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 12\AppCircunferencia\AppCircunferencia\obj\Debug\AppCircunferencia.csprojResolveAssemblyReference.cache
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 12\AppCircunferencia\AppCircunferencia\obj\Debug\AppCircunferencia.frmCircunferencia.resources
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 12\AppCircunferencia\AppCircunferencia\obj\Debug\AppCircunferencia.Properties.Resources.resources
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 12\AppCircunferencia\AppCircunferencia\obj\Debug\AppCircunferencia.csproj.GenerateResource.Cache
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 12\AppCircunferencia\AppCircunferencia\obj\Debug\AppCircunferencia.exe
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 12\AppCircunferencia\AppCircunferencia\obj\Debug\AppCircunferencia.pdb
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 12\AppCircunferencia\AppCircunferencia\bin\Debug\LibCircunferencia.dll
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 12\AppCircunferencia\AppCircunferencia\bin\Debug\LibCircunferencia.pdb

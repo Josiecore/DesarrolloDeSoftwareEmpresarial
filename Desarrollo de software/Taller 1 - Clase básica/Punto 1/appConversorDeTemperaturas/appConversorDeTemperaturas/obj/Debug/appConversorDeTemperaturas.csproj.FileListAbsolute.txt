@@ -1,0 +1,11 @@
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 1\appConversorDeTemperaturas\appConversorDeTemperaturas\bin\Debug\appConversorDeTemperaturas.exe.config
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 1\appConversorDeTemperaturas\appConversorDeTemperaturas\bin\Debug\appConversorDeTemperaturas.exe
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 1\appConversorDeTemperaturas\appConversorDeTemperaturas\bin\Debug\appConversorDeTemperaturas.pdb
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 1\appConversorDeTemperaturas\appConversorDeTemperaturas\obj\Debug\appConversorDeTemperaturas.csprojResolveAssemblyReference.cache
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 1\appConversorDeTemperaturas\appConversorDeTemperaturas\obj\Debug\appConversorDeTemperaturas.frmConversorDeTemperaturas.resources
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 1\appConversorDeTemperaturas\appConversorDeTemperaturas\obj\Debug\appConversorDeTemperaturas.Properties.Resources.resources
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 1\appConversorDeTemperaturas\appConversorDeTemperaturas\obj\Debug\appConversorDeTemperaturas.csproj.GenerateResource.Cache
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 1\appConversorDeTemperaturas\appConversorDeTemperaturas\obj\Debug\appConversorDeTemperaturas.exe
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 1\appConversorDeTemperaturas\appConversorDeTemperaturas\obj\Debug\appConversorDeTemperaturas.pdb
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 1\appConversorDeTemperaturas\appConversorDeTemperaturas\bin\Debug\LibConversorDeTemperatura.dll
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 1\appConversorDeTemperaturas\appConversorDeTemperaturas\bin\Debug\LibConversorDeTemperatura.pdb

@@ -1,0 +1,5 @@
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 1\LibConversorDeTemperatura\LibConversorDeTemperatura\bin\Debug\LibConversorDeTemperatura.dll
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 1\LibConversorDeTemperatura\LibConversorDeTemperatura\bin\Debug\LibConversorDeTemperatura.pdb
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 1\LibConversorDeTemperatura\LibConversorDeTemperatura\obj\Debug\LibConversorDeTemperatura.csprojResolveAssemblyReference.cache
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 1\LibConversorDeTemperatura\LibConversorDeTemperatura\obj\Debug\LibConversorDeTemperatura.dll
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 1\LibConversorDeTemperatura\LibConversorDeTemperatura\obj\Debug\LibConversorDeTemperatura.pdb

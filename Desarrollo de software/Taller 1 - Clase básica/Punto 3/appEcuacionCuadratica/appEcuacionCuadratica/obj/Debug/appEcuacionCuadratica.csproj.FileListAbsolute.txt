@@ -1,0 +1,11 @@
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 3\appEcuacionCuadratica\appEcuacionCuadratica\bin\Debug\appEcuacionCuadratica.exe.config
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 3\appEcuacionCuadratica\appEcuacionCuadratica\bin\Debug\appEcuacionCuadratica.exe
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 3\appEcuacionCuadratica\appEcuacionCuadratica\bin\Debug\appEcuacionCuadratica.pdb
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 3\appEcuacionCuadratica\appEcuacionCuadratica\bin\Debug\LibEcuacionCuadratica.dll
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 3\appEcuacionCuadratica\appEcuacionCuadratica\bin\Debug\LibEcuacionCuadratica.pdb
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 3\appEcuacionCuadratica\appEcuacionCuadratica\obj\Debug\appEcuacionCuadratica.csprojResolveAssemblyReference.cache
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 3\appEcuacionCuadratica\appEcuacionCuadratica\obj\Debug\appEcuacionCuadratica.frmEcuacionCuadratica.resources
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 3\appEcuacionCuadratica\appEcuacionCuadratica\obj\Debug\appEcuacionCuadratica.Properties.Resources.resources
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 3\appEcuacionCuadratica\appEcuacionCuadratica\obj\Debug\appEcuacionCuadratica.csproj.GenerateResource.Cache
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 3\appEcuacionCuadratica\appEcuacionCuadratica\obj\Debug\appEcuacionCuadratica.exe
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 3\appEcuacionCuadratica\appEcuacionCuadratica\obj\Debug\appEcuacionCuadratica.pdb

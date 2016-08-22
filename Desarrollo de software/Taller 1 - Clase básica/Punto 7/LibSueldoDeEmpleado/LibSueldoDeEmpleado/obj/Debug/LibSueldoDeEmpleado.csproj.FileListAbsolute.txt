@@ -1,0 +1,5 @@
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 7\LibSueldoDeEmpleado\LibSueldoDeEmpleado\bin\Debug\LibSueldoDeEmpleado.dll
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 7\LibSueldoDeEmpleado\LibSueldoDeEmpleado\bin\Debug\LibSueldoDeEmpleado.pdb
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 7\LibSueldoDeEmpleado\LibSueldoDeEmpleado\obj\Debug\LibSueldoDeEmpleado.csprojResolveAssemblyReference.cache
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 7\LibSueldoDeEmpleado\LibSueldoDeEmpleado\obj\Debug\LibSueldoDeEmpleado.dll
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 7\LibSueldoDeEmpleado\LibSueldoDeEmpleado\obj\Debug\LibSueldoDeEmpleado.pdb

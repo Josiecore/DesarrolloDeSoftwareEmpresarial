@@ -1,0 +1,5 @@
+E:\Desarrollo de software\Taller 1 - Clase básica\Retos\c\lblSueldoDiario\lblSueldoDiario\obj\Debug\LibSueldoDiario.csprojResolveAssemblyReference.cache
+E:\Desarrollo de software\Taller 1 - Clase básica\Retos\c\lblSueldoDiario\lblSueldoDiario\bin\Debug\lblSueldoDiario.dll
+E:\Desarrollo de software\Taller 1 - Clase básica\Retos\c\lblSueldoDiario\lblSueldoDiario\bin\Debug\lblSueldoDiario.pdb
+E:\Desarrollo de software\Taller 1 - Clase básica\Retos\c\lblSueldoDiario\lblSueldoDiario\obj\Debug\lblSueldoDiario.dll
+E:\Desarrollo de software\Taller 1 - Clase básica\Retos\c\lblSueldoDiario\lblSueldoDiario\obj\Debug\lblSueldoDiario.pdb

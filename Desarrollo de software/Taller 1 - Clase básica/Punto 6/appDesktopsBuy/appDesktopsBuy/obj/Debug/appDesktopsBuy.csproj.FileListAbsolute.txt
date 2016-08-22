@@ -1,0 +1,11 @@
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 6\appDesktopsBuy\appDesktopsBuy\bin\Debug\appDesktopsBuy.exe.config
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 6\appDesktopsBuy\appDesktopsBuy\bin\Debug\appDesktopsBuy.exe
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 6\appDesktopsBuy\appDesktopsBuy\bin\Debug\appDesktopsBuy.pdb
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 6\appDesktopsBuy\appDesktopsBuy\bin\Debug\LibVentas.dll
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 6\appDesktopsBuy\appDesktopsBuy\bin\Debug\LibVentas.pdb
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 6\appDesktopsBuy\appDesktopsBuy\obj\Debug\appDesktopsBuy.csprojResolveAssemblyReference.cache
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 6\appDesktopsBuy\appDesktopsBuy\obj\Debug\appDesktopsBuy.frmDesktops.resources
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 6\appDesktopsBuy\appDesktopsBuy\obj\Debug\appDesktopsBuy.Properties.Resources.resources
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 6\appDesktopsBuy\appDesktopsBuy\obj\Debug\appDesktopsBuy.csproj.GenerateResource.Cache
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 6\appDesktopsBuy\appDesktopsBuy\obj\Debug\appDesktopsBuy.exe
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 6\appDesktopsBuy\appDesktopsBuy\obj\Debug\appDesktopsBuy.pdb

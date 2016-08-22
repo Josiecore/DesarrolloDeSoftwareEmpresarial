@@ -1,0 +1,11 @@
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\LibAumentoDeSueldo.dll
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\LibAumentoDeSueldo.pdb
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\appAumentoDelEmpleado.csprojResolveAssemblyReference.cache
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmAumentoEmpleado.resources
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\appAumentoDelEmpleado.csproj.GenerateResource.Cache
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

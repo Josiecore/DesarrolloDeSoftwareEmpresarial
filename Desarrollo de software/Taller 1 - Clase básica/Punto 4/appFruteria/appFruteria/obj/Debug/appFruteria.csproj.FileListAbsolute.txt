@@ -1,0 +1,11 @@
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 4\appFruteria\appFruteria\bin\Debug\appFruteria.exe.config
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 4\appFruteria\appFruteria\bin\Debug\appFruteria.exe
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 4\appFruteria\appFruteria\bin\Debug\appFruteria.pdb
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 4\appFruteria\appFruteria\obj\Debug\appFruteria.csprojResolveAssemblyReference.cache
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 4\appFruteria\appFruteria\obj\Debug\appFruteria.frmFruteria.resources
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 4\appFruteria\appFruteria\obj\Debug\appFruteria.Properties.Resources.resources
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 4\appFruteria\appFruteria\obj\Debug\appFruteria.csproj.GenerateResource.Cache
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 4\appFruteria\appFruteria\obj\Debug\appFruteria.exe
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 4\appFruteria\appFruteria\obj\Debug\appFruteria.pdb
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 4\appFruteria\appFruteria\bin\Debug\LibFruteria.dll
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 4\appFruteria\appFruteria\bin\Debug\LibFruteria.pdb

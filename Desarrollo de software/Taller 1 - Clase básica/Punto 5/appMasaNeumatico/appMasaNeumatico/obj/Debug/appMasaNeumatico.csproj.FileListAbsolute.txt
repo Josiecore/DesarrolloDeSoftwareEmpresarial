@@ -1,0 +1,11 @@
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 5\appMasaNeumatico\appMasaNeumatico\bin\Debug\appMasaNeumatico.exe.config
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 5\appMasaNeumatico\appMasaNeumatico\bin\Debug\appMasaNeumatico.exe
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 5\appMasaNeumatico\appMasaNeumatico\bin\Debug\appMasaNeumatico.pdb
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 5\appMasaNeumatico\appMasaNeumatico\bin\Debug\LibNeumatico.dll
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 5\appMasaNeumatico\appMasaNeumatico\bin\Debug\LibNeumatico.pdb
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 5\appMasaNeumatico\appMasaNeumatico\obj\Debug\appMasaNeumatico.csprojResolveAssemblyReference.cache
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 5\appMasaNeumatico\appMasaNeumatico\obj\Debug\appMasaNeumatico.frmMasaDeAire.resources
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 5\appMasaNeumatico\appMasaNeumatico\obj\Debug\appMasaNeumatico.Properties.Resources.resources
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 5\appMasaNeumatico\appMasaNeumatico\obj\Debug\appMasaNeumatico.csproj.GenerateResource.Cache
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 5\appMasaNeumatico\appMasaNeumatico\obj\Debug\appMasaNeumatico.exe
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 5\appMasaNeumatico\appMasaNeumatico\obj\Debug\appMasaNeumatico.pdb

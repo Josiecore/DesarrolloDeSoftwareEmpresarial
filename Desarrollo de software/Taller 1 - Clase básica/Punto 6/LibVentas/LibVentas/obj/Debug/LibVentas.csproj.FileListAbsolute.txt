@@ -1,0 +1,5 @@
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 6\LibVentas\LibVentas\bin\Debug\LibVentas.dll
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 6\LibVentas\LibVentas\bin\Debug\LibVentas.pdb
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 6\LibVentas\LibVentas\obj\Debug\LibVentas.csprojResolveAssemblyReference.cache
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 6\LibVentas\LibVentas\obj\Debug\LibVentas.dll
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 6\LibVentas\LibVentas\obj\Debug\LibVentas.pdb

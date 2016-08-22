@@ -1,0 +1,5 @@
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 12\LibCircunferencia\LibCircunferencia\bin\Debug\LibCircunferencia.dll
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 12\LibCircunferencia\LibCircunferencia\bin\Debug\LibCircunferencia.pdb
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 12\LibCircunferencia\LibCircunferencia\obj\Debug\LibCircunferencia.csprojResolveAssemblyReference.cache
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 12\LibCircunferencia\LibCircunferencia\obj\Debug\LibCircunferencia.dll
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 12\LibCircunferencia\LibCircunferencia\obj\Debug\LibCircunferencia.pdb

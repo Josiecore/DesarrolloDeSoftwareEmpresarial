@@ -1,0 +1,5 @@
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 3\LibEcuacionCuadratica\LibEcuacionCuadratica\obj\Debug\LibEcuacionCuadratica.csprojResolveAssemblyReference.cache
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 3\LibEcuacionCuadratica\LibEcuacionCuadratica\bin\Debug\LibEcuacionCuadratica.dll
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 3\LibEcuacionCuadratica\LibEcuacionCuadratica\bin\Debug\LibEcuacionCuadratica.pdb
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 3\LibEcuacionCuadratica\LibEcuacionCuadratica\obj\Debug\LibEcuacionCuadratica.dll
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 3\LibEcuacionCuadratica\LibEcuacionCuadratica\obj\Debug\LibEcuacionCuadratica.pdb

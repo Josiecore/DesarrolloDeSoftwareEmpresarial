@@ -1,0 +1,5 @@
+F:\Desarrollo de software\Taller 1 - Clase básica\Retos\d\LibUniversidad\LibUniversidad\bin\Debug\LibUniversidad.dll
+F:\Desarrollo de software\Taller 1 - Clase básica\Retos\d\LibUniversidad\LibUniversidad\bin\Debug\LibUniversidad.pdb
+F:\Desarrollo de software\Taller 1 - Clase básica\Retos\d\LibUniversidad\LibUniversidad\obj\Debug\LibUniversidad.csprojResolveAssemblyReference.cache
+F:\Desarrollo de software\Taller 1 - Clase básica\Retos\d\LibUniversidad\LibUniversidad\obj\Debug\LibUniversidad.dll
+F:\Desarrollo de software\Taller 1 - Clase básica\Retos\d\LibUniversidad\LibUniversidad\obj\Debug\LibUniversidad.pdb

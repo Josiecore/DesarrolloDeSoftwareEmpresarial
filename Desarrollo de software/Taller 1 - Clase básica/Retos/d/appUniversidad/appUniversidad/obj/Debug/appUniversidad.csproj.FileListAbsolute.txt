@@ -1,0 +1,11 @@
+F:\Desarrollo de software\Taller 1 - Clase básica\Retos\d\appUniversidad\appUniversidad\bin\Debug\appUniversidad.exe.config
+F:\Desarrollo de software\Taller 1 - Clase básica\Retos\d\appUniversidad\appUniversidad\bin\Debug\appUniversidad.exe
+F:\Desarrollo de software\Taller 1 - Clase básica\Retos\d\appUniversidad\appUniversidad\bin\Debug\appUniversidad.pdb
+F:\Desarrollo de software\Taller 1 - Clase básica\Retos\d\appUniversidad\appUniversidad\obj\Debug\appUniversidad.csprojResolveAssemblyReference.cache
+F:\Desarrollo de software\Taller 1 - Clase básica\Retos\d\appUniversidad\appUniversidad\obj\Debug\appUniversidad.frmCreditos.resources
+F:\Desarrollo de software\Taller 1 - Clase básica\Retos\d\appUniversidad\appUniversidad\obj\Debug\appUniversidad.Properties.Resources.resources
+F:\Desarrollo de software\Taller 1 - Clase básica\Retos\d\appUniversidad\appUniversidad\obj\Debug\appUniversidad.csproj.GenerateResource.Cache
+F:\Desarrollo de software\Taller 1 - Clase básica\Retos\d\appUniversidad\appUniversidad\obj\Debug\appUniversidad.exe
+F:\Desarrollo de software\Taller 1 - Clase básica\Retos\d\appUniversidad\appUniversidad\obj\Debug\appUniversidad.pdb
+F:\Desarrollo de software\Taller 1 - Clase básica\Retos\d\appUniversidad\appUniversidad\bin\Debug\LibUniversidad.dll
+F:\Desarrollo de software\Taller 1 - Clase básica\Retos\d\appUniversidad\appUniversidad\bin\Debug\LibUniversidad.pdb

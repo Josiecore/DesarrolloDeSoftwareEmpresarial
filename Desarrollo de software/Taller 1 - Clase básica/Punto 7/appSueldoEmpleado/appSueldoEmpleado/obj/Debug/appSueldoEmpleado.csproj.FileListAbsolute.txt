@@ -1,0 +1,11 @@
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 7\appSueldoEmpleado\appSueldoEmpleado\bin\Debug\appSueldoEmpleado.exe.config
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 7\appSueldoEmpleado\appSueldoEmpleado\obj\Debug\appSueldoEmpleado.csprojResolveAssemblyReference.cache
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 7\appSueldoEmpleado\appSueldoEmpleado\obj\Debug\appSueldoEmpleado.Properties.Resources.resources
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 7\appSueldoEmpleado\appSueldoEmpleado\obj\Debug\appSueldoEmpleado.csproj.GenerateResource.Cache
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 7\appSueldoEmpleado\appSueldoEmpleado\bin\Debug\appSueldoEmpleado.exe
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 7\appSueldoEmpleado\appSueldoEmpleado\bin\Debug\appSueldoEmpleado.pdb
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 7\appSueldoEmpleado\appSueldoEmpleado\obj\Debug\appSueldoEmpleado.exe
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 7\appSueldoEmpleado\appSueldoEmpleado\obj\Debug\appSueldoEmpleado.pdb
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 7\appSueldoEmpleado\appSueldoEmpleado\bin\Debug\LibSueldoDeEmpleado.dll
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 7\appSueldoEmpleado\appSueldoEmpleado\bin\Debug\LibSueldoDeEmpleado.pdb
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 7\appSueldoEmpleado\appSueldoEmpleado\obj\Debug\appSueldoEmpleado.frmSueldo.resources

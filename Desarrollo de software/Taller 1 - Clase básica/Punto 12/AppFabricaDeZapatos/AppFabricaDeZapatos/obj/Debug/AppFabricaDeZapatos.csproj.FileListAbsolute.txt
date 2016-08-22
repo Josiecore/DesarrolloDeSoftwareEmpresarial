@@ -1,0 +1,11 @@
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 12\AppFabricaDeZapatos\AppFabricaDeZapatos\bin\Debug\AppFabricaDeZapatos.exe.config
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 12\AppFabricaDeZapatos\AppFabricaDeZapatos\bin\Debug\AppFabricaDeZapatos.exe
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 12\AppFabricaDeZapatos\AppFabricaDeZapatos\bin\Debug\AppFabricaDeZapatos.pdb
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 12\AppFabricaDeZapatos\AppFabricaDeZapatos\obj\Debug\AppFabricaDeZapatos.frmFabricaDeZapatos.resources
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 12\AppFabricaDeZapatos\AppFabricaDeZapatos\obj\Debug\AppFabricaDeZapatos.Properties.Resources.resources
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 12\AppFabricaDeZapatos\AppFabricaDeZapatos\obj\Debug\AppFabricaDeZapatos.csproj.GenerateResource.Cache
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 12\AppFabricaDeZapatos\AppFabricaDeZapatos\obj\Debug\AppFabricaDeZapatos.exe
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 12\AppFabricaDeZapatos\AppFabricaDeZapatos\obj\Debug\AppFabricaDeZapatos.pdb
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 12\AppFabricaDeZapatos\AppFabricaDeZapatos\bin\Debug\LibFabricaDeZapatos.dll
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 12\AppFabricaDeZapatos\AppFabricaDeZapatos\bin\Debug\LibFabricaDeZapatos.pdb
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 12\AppFabricaDeZapatos\AppFabricaDeZapatos\obj\Debug\AppFabricaDeZapatos.csprojResolveAssemblyReference.cache

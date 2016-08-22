@@ -1,0 +1,5 @@
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 2\LibAumentoDeSueldo\LibAumentoDeSueldo\bin\Debug\LibAumentoDeSueldo.dll
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 2\LibAumentoDeSueldo\LibAumentoDeSueldo\bin\Debug\LibAumentoDeSueldo.pdb
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 2\LibAumentoDeSueldo\LibAumentoDeSueldo\obj\Debug\LibAumentoDeSueldo.csprojResolveAssemblyReference.cache
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 2\LibAumentoDeSueldo\LibAumentoDeSueldo\obj\Debug\LibAumentoDeSueldo.dll
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 2\LibAumentoDeSueldo\LibAumentoDeSueldo\obj\Debug\LibAumentoDeSueldo.pdb

@@ -1,0 +1,5 @@
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 5\LibNeumatico\LibNeumatico\bin\Debug\LibNeumatico.dll
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 5\LibNeumatico\LibNeumatico\bin\Debug\LibNeumatico.pdb
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 5\LibNeumatico\LibNeumatico\obj\Debug\LibNeumatico.csprojResolveAssemblyReference.cache
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 5\LibNeumatico\LibNeumatico\obj\Debug\LibNeumatico.dll
+E:\Desarrollo de software\Taller 1 - Clase básica\Punto 5\LibNeumatico\LibNeumatico\obj\Debug\LibNeumatico.pdb
